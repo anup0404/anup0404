@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web development project**
 
-- 👨‍💻 All of my projects are available at [anup-3d-portfolio.netlify.app](anup-3d-portfolio.netlify.app)
+- 👨‍💻 All of my projects are available at [https://anup-3d-portfolio.netlify.app/]
 
 - 💬 Ask me about **React**
 
