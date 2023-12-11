@@ -1,4 +1,4 @@
-![MasterHead](https://user-images.githubusercontent.com/36126914/154766367-2c3d9c80-3cdc-4790-b15c-7eba5eee9fd2.gif)
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQHzjFFLYy8xJg/profile-displaybackgroundimage-shrink_350_1400/0/1688323690962?e=1707955200&v=beta&t=s_BxczeVekhteK8wZ3Pzn2x0s9OPcIGI0F24fXzNBHg)
 <h1 align="center">Hi 👋, I'm Anup Kumar</h1>
 <h3 align="center">A Motivated and detail-oriented Software and Front-End Developer.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
